@@ -1,7 +1,7 @@
 require('dotenv').config();
 const getTasks = require('./getTasks');
 const clearTask = require('./clearTask');
-const tokens = require('./tokens');
+const tokens = require('./token');
 
 (async () => {
   for (const token of tokens) {
