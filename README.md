@@ -2,6 +2,7 @@
 
 This bot automates the process of clearing tasks in the Side Quests game. It fetches the tasks assigned to the user and clears them automatically.
 
+Source https://github.com/dante4rt/side-quests-bot (Edited For Multipe Account)
 ## Installation
 
 1. Clone the repository:
@@ -24,6 +25,7 @@ This bot automates the process of clearing tasks in the Side Quests game. It fet
    - Go to the "Network" tab.
    - Navigate to the Side Quests game and look for a request with the authorization header.
    - Copy the value after the word "Bearer".
+   - Fill Token.js for multipe account
 
 2. Set up environment variables:
 
