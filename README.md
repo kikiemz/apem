@@ -24,7 +24,7 @@ Source https://github.com/dante4rt/side-quests-bot (Edited For Multipe Account)
    - Open your browser's developer tools (usually by pressing F12 or right-clicking and selecting "Inspect").
    - Go to the "Network" tab.
    - Navigate to the Side Quests game and look for a request with the authorization header.
-   - Copy the value after the word "Bearer".
+   - Copy the value after the word "Bearer" -> Clear 'token-xxx' to 'Your Code Without Bearer' 
    - Fill Token.js for multipe account
 
 2. Set up environment variables:
